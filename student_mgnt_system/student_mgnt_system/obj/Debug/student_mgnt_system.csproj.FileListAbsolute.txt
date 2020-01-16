@@ -1,0 +1,10 @@
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\bin\Debug\student_mgnt_system.exe.config
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\bin\Debug\student_mgnt_system.exe
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\bin\Debug\student_mgnt_system.pdb
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.csprojAssemblyReference.cache
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.Form1.resources
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.info.resources
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.Properties.Resources.resources
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.csproj.GenerateResource.cache
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.exe
+D:\COLLEGE\c#_project\student mgnt system\student_mgnt_system\student_mgnt_system\obj\Debug\student_mgnt_system.pdb
